@@ -21,7 +21,7 @@ botonConvertir.addEventListener('click', () => {
                 datosCorrectos = false;
                 break; 
             }
-        }
+        }   
 
         if (datosCorrectos) {
             validacion.textContent = ""; 
