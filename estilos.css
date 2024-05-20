@@ -1,0 +1,15 @@
+
+
+.forma{
+    text-align: center;
+    color: white;
+    background-color: rgb(72, 85, 85);
+    width: 60%;
+    height: 300px;
+    margin-left: 20%;
+    margin-top: 100px;
+}
+
+#validacion{
+    color: red;
+}
